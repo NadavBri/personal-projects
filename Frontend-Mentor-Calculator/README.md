@@ -1,6 +1,6 @@
 # Frontend Mentor - Calculator app
 
-![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)
+<img width="490" alt="image" src="https://github.com/nadavbrilon/personal-projects/assets/118348567/3eade3ca-4e48-485a-834b-96b27fcdebc2">
 
 ## Welcome! 👋
 
